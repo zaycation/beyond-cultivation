@@ -1,11 +1,9 @@
 import React from "react";
+import items from "../components/itemsList";
 import { ProGallery } from "pro-gallery";
 import "pro-gallery/dist/statics/main.css";
 
 const SuccessPage = () => {
-  // Add your images here...
-  const items = [];
-
   // The options of the gallery (from the playground current state)
   const options = {
     galleryLayout: -1,
