@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,aAAa;ADEb,AAAA,UAAU,CAAC;EACT,KAAK,ECAE,OAAO,CDAC,UAAU;CAC1B;;AAED,AAAA,UAAU,AAAA,MAAM,CAAC;EACf,KAAK,ECLC,OAAO,CDKC,UAAU;CACzB;;AAED,AAAA,WAAW,CAAC;EACV,KAAK,ECTC,OAAO,CDSC,UAAU;CACzB",
+    "sources": [
+        "faq.scss",
+        "_variables.scss"
+    ],
+    "names": [],
+    "file": "faq.css"
+}

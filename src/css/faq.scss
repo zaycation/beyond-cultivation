@@ -1,0 +1,13 @@
+@import "./variables";
+
+.faq-links {
+  color: $yellow !important;
+}
+
+.faq-links:hover {
+  color: $green !important;
+}
+
+.toggle-txt {
+  color: $green !important;
+}
