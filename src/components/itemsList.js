@@ -131,6 +131,126 @@ const items = [
       description: "sample-description",
     },
   },
+  {
+    itemId: "12",
+    mediaUrl:
+      "https://cdn.discordapp.com/attachments/817485904297459744/833023726178140160/image0.jpg",
+    metaData: {
+      type: "image",
+      height: 100,
+      width: 200,
+      title: "zsh sideways trellis shot",
+      description: "sample-description",
+    },
+  },
+  {
+    itemId: "13",
+    mediaUrl:
+      "https://cdn.discordapp.com/attachments/817485904297459744/833023706586284042/image1.jpg",
+    metaData: {
+      type: "image",
+      height: 200,
+      width: 100,
+      title: "zsh trellis flowering shot",
+      description: "sample-description",
+    },
+  },
+  {
+    itemId: "14",
+    mediaUrl:
+      "https://cdn.discordapp.com/attachments/817485904297459744/833022473276096552/image0.jpg",
+    metaData: {
+      type: "image",
+      height: 200,
+      width: 100,
+      title: "alderamprime LST p3",
+      description: "sample-description",
+    },
+  },
+  {
+    itemId: "15",
+    mediaUrl:
+      "https://cdn.discordapp.com/attachments/817485904297459744/832793189500452884/image0.jpg",
+    metaData: {
+      type: "image",
+      height: 200,
+      width: 100,
+      title: "mclov3n closet grow",
+      description: "sample-description",
+    },
+  },
+  {
+    itemId: "16",
+    mediaUrl:
+      "https://cdn.discordapp.com/attachments/817485904297459744/832793103903490098/image0.jpg",
+    metaData: {
+      type: "image",
+      height: 100,
+      width: 200,
+      title: "mclov3n grow tent",
+      description: "sample-description",
+    },
+  },
+  {
+    itemId: "17",
+    mediaUrl:
+      "https://cdn.discordapp.com/attachments/817485904297459744/832308939843567696/image0.jpg",
+    metaData: {
+      type: "image",
+      height: 100,
+      width: 200,
+      title: "mclov3n back grow tent",
+      description: "sample-description",
+    },
+  },
+  {
+    itemId: "18",
+    mediaUrl:
+      "https://cdn.discordapp.com/attachments/817485904297459744/832373125214765076/image0.jpg",
+    metaData: {
+      type: "image",
+      height: 200,
+      width: 100,
+      title: "mclov3n closet grow",
+      description: "sample-description",
+    },
+  },
+  {
+    itemId: "19",
+    mediaUrl:
+      "https://cdn.discordapp.com/attachments/817485904297459744/832165678794276894/image0.png",
+    metaData: {
+      type: "image",
+      height: 200,
+      width: 100,
+      title: "mclov3n close up",
+      description: "sample-description",
+    },
+  },
+  {
+    itemId: "20",
+    mediaUrl:
+      "https://cdn.discordapp.com/attachments/817485904297459744/832163167986515988/image0.png",
+    metaData: {
+      type: "image",
+      height: 200,
+      width: 100,
+      title: "mclov3n close up",
+      description: "sample-description",
+    },
+  },
+  {
+    itemId: "21",
+    mediaUrl:
+      "https://cdn.discordapp.com/attachments/817485904297459744/832310310491914290/image0.jpg",
+    metaData: {
+      type: "image",
+      height: 100,
+      width: 200,
+      title: "mclov3n close up",
+      description: "sample-description",
+    },
+  },
 ];
 
 export default items;

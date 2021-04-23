@@ -10,6 +10,7 @@ import Navbar from "./components/HomeNavbar";
 
 import HomePage from "./pages/HomePage";
 import FaqPage from "./pages/FaqPage";
+import BlogPage from "./pages/BlogPage";
 import SuccessPage from "./pages/SuccessPage";
 
 import "./App.css";
@@ -22,6 +23,7 @@ const App = () => {
       <Switch>
         <Route path="/" exact component={HomePage} />
         <Route path="/faq" exact component={FaqPage} />
+        <Route path="/blog" exact component={BlogPage} />
         <Route path="/success" exact component={SuccessPage} />
         <Redirect from="*" to="/" />
       </Switch>
